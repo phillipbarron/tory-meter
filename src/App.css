@@ -31,3 +31,13 @@
     transform: rotate(360deg);
   }
 }
+
+.input-form__result {
+  padding-top: 8px;
+  justify-content: center;
+}
+
+.input-form__button {
+  padding-top: 8px;
+  justify-content: center;
+}
