@@ -1,6 +1,6 @@
 # tory-meter
 
-first foray in to machine learning - the initial idea is to use (BrainJS)[https://github.com/BrainJS] to detect whether some news article content is right wing or not.
+first foray in to machine learning - the initial idea is to use [BrainJS](https://github.com/BrainJS) to detect whether some news article content is right wing or not.
 
 ## testing
 
