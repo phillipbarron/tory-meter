@@ -18,7 +18,7 @@ npm run
 
 lots:
 
-* identify data source fortraining model
-* define criteria for marking article as right-wing in sentiment
+* identify data source for training model
+* define criteria for marking article as right-wing in sentiment - bit subjective that one
 * train model
 * add service to detect sentiment
