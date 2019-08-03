@@ -7,4 +7,9 @@ net.train([
   { input: 'blood Tories', output: 'normal' },
 ]);
 
-net.run('blood Tories');
+net.run('bloody Tories');
+
+const checkStuff = content => net.run(content);
+
+export default checkStuff;
+
