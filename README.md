@@ -22,3 +22,4 @@ lots:
 * define criteria for marking article as right-wing in sentiment - bit subjective that one
 * train model
 * add service to detect sentiment
+* look at moving the training over to node (much faster) - maybe there are better library options
