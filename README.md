@@ -1,6 +1,8 @@
 # tory-meter
 
-first foray in to machine learning - the initial idea is to use [BrainJS](https://github.com/BrainJS) to detect whether some news article content is right wing or not.
+ml guff - the initial idea is to use [BrainJS](https://github.com/BrainJS) to detect whether some news article content is right wing or not.
+
+this is a tricky issue - how does one determine left / right wing sentiment?
 
 ## testing
 
